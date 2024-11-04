@@ -16,6 +16,7 @@ public class Problema03 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+          //mi segunda solucion a este problema que me parece mas eficaz
         Scanner scanner = new Scanner(System.in);
         
         System.out.println("Ingrese el costo por minuto");
