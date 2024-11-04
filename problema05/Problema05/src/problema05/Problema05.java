@@ -29,8 +29,9 @@ public class Problema05 {
         double ytD = yt - (yt * 0.23);
         double dropboxD = dropbox - (dropbox * 0.45);
         double valorTotal = spotify + netflixD + ytD + dropboxD;
-        System.out.println("Netflix y Youtube tienen un descuento del 23%,"
-        +"mientras que dropbox de un 45% entonces el valor total a pagar seria:"
+        System.out.println("Youtube y netflix cuentan un descuento total del "
+                + "23% "
+        +"y dropbox de un 45% entonces el valor total a pagar seria:"
                 + valorTotal);
                 
                 
